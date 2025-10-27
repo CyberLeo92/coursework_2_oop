@@ -1,0 +1,322 @@
+[
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126792348",
+        "salary_from": 180000,
+        "salary_to": 200000,
+        "description": "Опыт от 2–3 лет в разработке backend-сервисов на <highlighttext>Python</highlighttext>. Хорошее знание SQL и практический опыт работы с PostgreSQL. "
+    },
+    {
+        "title": "Golang разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126793057",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Качественный опыт написания кода на Golang от 2-х лет. Опыт написания кода на <highlighttext>Python</highlighttext>. Свободное владение linux (bash, sed..."
+    },
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126876638",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Уверенное знание <highlighttext>Python</highlighttext> (3.8+) — проектирование модулей, работа с async. Опыт с REST API (FastAPI/Flask/Django) или написанием..."
+    },
+    {
+        "title": "Middle Python Developer (в Бильбао, Испания)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126838883",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "4+ лет коммерческого опыта в <highlighttext>Python</highlighttext>. Отличное знание FastAPI и REST API. Опыт работы с SQL и ORM (SQLAlchemy..."
+    },
+    {
+        "title": "Backend разработчик python (junior)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126879219",
+        "salary_from": "0",
+        "salary_to": 120000,
+        "description": "Опыт разработки Backend (<highlighttext>Python</highlighttext>) приложений от 1 года. Опыт применения фреймворков/библиотек под <highlighttext>Python</highlighttext>. Знание паттернов проектирования: GOF, SOLID. "
+    },
+    {
+        "title": "Middle Python-разработчик (NAD)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126912169",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Опыт работы с фреймворком Django и Django REST Framework (DRF). Опыт автоматизации/написания скриптов на <highlighttext>Python</highlighttext>. Понимания принципов работы сетей. "
+    },
+    {
+        "title": "Программист Python junior",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126716662",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "<highlighttext>Python</highlighttext> (asyncio, aiohttp, Tornado). Навыки работы с Linux (командная строка, API). Хорошее знание паттернов проектирования, структур данных и классических алгоритмов. "
+    },
+    {
+        "title": "Senior Kotlin/Java Developer",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126841193",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Глубокое понимание работы протоколов передачи данных. Интерес к функциональной безопасности и кибербезопасности. Опыт и интерес к другим программным экосистемам: <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126642474",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Что мы от тебя хотим: Опыт коммерческой разработки от 3х лет. Уверенные знания <highlighttext>python</highlighttext>; Понимание асинхронности. Опыт работы с..."
+    },
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126665362",
+        "salary_from": 250000,
+        "salary_to": "0",
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 2–3 лет, с акцентом на backendразработку. Глубокие знания асинхронного программирования (asyncio, aiohttp) и..."
+    },
+    {
+        "title": "Backend-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126764049",
+        "salary_from": 235000,
+        "salary_to": 260000,
+        "description": "У тебя есть опыт работы с высоконагруженными системами. Глубоко понимаешь backend-архитектуру и REST. Можно расти до эксперта или архитектора..."
+    },
+    {
+        "title": "Junior Python разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126924148",
+        "salary_from": "0",
+        "salary_to": 80000,
+        "description": "Опыт работы в коммерческом проекте от 6 месяцев. Опыт работы с <highlighttext>Python</highlighttext> (обязательно FastAPI или Flask). Понимание принципов асинхронного программирования. "
+    },
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126913479",
+        "salary_from": "0",
+        "salary_to": 250000,
+        "description": "Коммерческий опыт разработки веб-сервисов - от 3-х лет. Уверенный опыт работы с <highlighttext>Python</highlighttext> 3, asyncio (async/await), веб-фреймоворками..."
+    },
+    {
+        "title": "AI-разработчик нового поколения (Python / Go / PHP / Frontend)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126794177",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Мы заметили: <highlighttext>разработчики</highlighttext>, которые по собственному желанию работали в выходные, стабильно росли быстрее. Принцип простой: чем успешнее твой проект — тем..."
+    },
+    {
+        "title": "Python-разработчик (Python-developer)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126260776",
+        "salary_from": 70000,
+        "salary_to": "0",
+        "description": "Уверенные навыки написания кода на <highlighttext>Python</highlighttext>. - Знание REST API и одного из популярных веб-фреймворков (Django, FastAPI). - Опыт работы с..."
+    },
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126923676",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 2 лет. Уверенное знание FastAPI, SQLAlchemy (или аналогов ORM). Уверенное знание SQL, оптимизация SQL..."
+    },
+    {
+        "title": "Backend-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126788399",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Отличные знания в разработке микросервисов на <highlighttext>Python</highlighttext>. Стек - FastAPI + Poetry + PostgreSQL + Redis + Kafka + Docker +..."
+    },
+    {
+        "title": "Backend разработчик (Django, FastAPI, Python)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126922085",
+        "salary_from": 150000,
+        "salary_to": 170000,
+        "description": "Уверенное владение <highlighttext>Python</highlighttext> 3. Опыт разработки REST API, знание протоколов HTTP, WebSocket. Отличное знание Django (Django REST Framework). "
+    },
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126604934",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Коммерческий опыт работы c <highlighttext>Python</highlighttext> не менее 2-х лет. Понимание нашего стека: <highlighttext>python</highlighttext> 3, asyncio, fastAPI, django, kubernetes, postgreSQL..."
+    },
+    {
+        "title": "Java-разработчик (middle)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126769780",
+        "salary_from": 140000,
+        "salary_to": "0",
+        "description": "Есть понимание принципов REST и протокола HTTP. Опыт работы с системами контейнеризации. Опыт или желание писать код на <highlighttext>Python</highlighttext>."
+    },
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126792348",
+        "salary_from": 180000,
+        "salary_to": 200000,
+        "description": "Опыт от 2–3 лет в разработке backend-сервисов на <highlighttext>Python</highlighttext>. Хорошее знание SQL и практический опыт работы с PostgreSQL. "
+    },
+    {
+        "title": "Golang разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126793057",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Качественный опыт написания кода на Golang от 2-х лет. Опыт написания кода на <highlighttext>Python</highlighttext>. Свободное владение linux (bash, sed..."
+    },
+    {
+        "title": "Middle Python Developer (в Бильбао, Испания)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126838883",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "4+ лет коммерческого опыта в <highlighttext>Python</highlighttext>. Отличное знание FastAPI и REST API. Опыт работы с SQL и ORM (SQLAlchemy..."
+    },
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126876638",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Уверенное знание <highlighttext>Python</highlighttext> (3.8+) — проектирование модулей, работа с async. Опыт с REST API (FastAPI/Flask/Django) или написанием..."
+    },
+    {
+        "title": "Backend разработчик python (junior)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126879219",
+        "salary_from": "0",
+        "salary_to": 120000,
+        "description": "Опыт разработки Backend (<highlighttext>Python</highlighttext>) приложений от 1 года. Опыт применения фреймворков/библиотек под <highlighttext>Python</highlighttext>. Знание паттернов проектирования: GOF, SOLID. "
+    },
+    {
+        "title": "Middle Python-разработчик (NAD)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126912169",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Опыт работы с фреймворком Django и Django REST Framework (DRF). Опыт автоматизации/написания скриптов на <highlighttext>Python</highlighttext>. Понимания принципов работы сетей. "
+    },
+    {
+        "title": "Программист Python junior",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126716662",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "<highlighttext>Python</highlighttext> (asyncio, aiohttp, Tornado). Навыки работы с Linux (командная строка, API). Хорошее знание паттернов проектирования, структур данных и классических алгоритмов. "
+    },
+    {
+        "title": "Senior Kotlin/Java Developer",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126841193",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Глубокое понимание работы протоколов передачи данных. Интерес к функциональной безопасности и кибербезопасности. Опыт и интерес к другим программным экосистемам: <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126642474",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Что мы от тебя хотим: Опыт коммерческой разработки от 3х лет. Уверенные знания <highlighttext>python</highlighttext>; Понимание асинхронности. Опыт работы с..."
+    },
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126665362",
+        "salary_from": 250000,
+        "salary_to": "0",
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 2–3 лет, с акцентом на backendразработку. Глубокие знания асинхронного программирования (asyncio, aiohttp) и..."
+    },
+    {
+        "title": "Backend-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126764049",
+        "salary_from": 235000,
+        "salary_to": 260000,
+        "description": "У тебя есть опыт работы с высоконагруженными системами. Глубоко понимаешь backend-архитектуру и REST. Можно расти до эксперта или архитектора..."
+    },
+    {
+        "title": "Junior Python разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126924148",
+        "salary_from": "0",
+        "salary_to": 80000,
+        "description": "Опыт работы в коммерческом проекте от 6 месяцев. Опыт работы с <highlighttext>Python</highlighttext> (обязательно FastAPI или Flask). Понимание принципов асинхронного программирования. "
+    },
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126913479",
+        "salary_from": "0",
+        "salary_to": 250000,
+        "description": "Коммерческий опыт разработки веб-сервисов - от 3-х лет. Уверенный опыт работы с <highlighttext>Python</highlighttext> 3, asyncio (async/await), веб-фреймоворками..."
+    },
+    {
+        "title": "Python-разработчик (Python-developer)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126260776",
+        "salary_from": 70000,
+        "salary_to": "0",
+        "description": "Уверенные навыки написания кода на <highlighttext>Python</highlighttext>. - Знание REST API и одного из популярных веб-фреймворков (Django, FastAPI). - Опыт работы с..."
+    },
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126923676",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 2 лет. Уверенное знание FastAPI, SQLAlchemy (или аналогов ORM). Уверенное знание SQL, оптимизация SQL..."
+    },
+    {
+        "title": "AI-разработчик нового поколения (Python / Go / PHP / Frontend)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126794177",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Мы заметили: <highlighttext>разработчики</highlighttext>, которые по собственному желанию работали в выходные, стабильно росли быстрее. Принцип простой: чем успешнее твой проект — тем..."
+    },
+    {
+        "title": "Backend разработчик (Django, FastAPI, Python)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126922085",
+        "salary_from": 150000,
+        "salary_to": 170000,
+        "description": "Уверенное владение <highlighttext>Python</highlighttext> 3. Опыт разработки REST API, знание протоколов HTTP, WebSocket. Отличное знание Django (Django REST Framework). "
+    },
+    {
+        "title": "Backend-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126788399",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Отличные знания в разработке микросервисов на <highlighttext>Python</highlighttext>. Стек - FastAPI + Poetry + PostgreSQL + Redis + Kafka + Docker +..."
+    },
+    {
+        "title": "Java-разработчик (middle)",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126769780",
+        "salary_from": 140000,
+        "salary_to": "0",
+        "description": "Есть понимание принципов REST и протокола HTTP. Опыт работы с системами контейнеризации. Опыт или желание писать код на <highlighttext>Python</highlighttext>."
+    },
+    {
+        "title": "Python-разработчик",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/126604934",
+        "salary_from": "0",
+        "salary_to": "0",
+        "description": "Коммерческий опыт работы c <highlighttext>Python</highlighttext> не менее 2-х лет. Понимание нашего стека: <highlighttext>python</highlighttext> 3, asyncio, fastAPI, django, kubernetes, postgreSQL..."
+    }
+]
