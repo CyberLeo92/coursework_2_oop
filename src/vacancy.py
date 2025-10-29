@@ -13,6 +13,8 @@ class Vacancy:
     :arg description - описание вакансии
     """
 
+    __slots__ = ("title", "area", "url", "salary_from", "salary_to", "description")
+
     def __init__(
             self,
             title: str,
@@ -73,3 +75,20 @@ class Vacancy:
         s = str(value).strip()
         s = s.replace(" ", "")
         return int(s) if s.isdigit() else 0
+
+    @classmethod
+    def from_hh_item(cls, item: dict) -> "Vacancy":
+        """ Превращает элемент ответа hh.ru в Vacancy (чтоб не дублировать логику в main.py) """
+        name = item.get("name", "")
+        area = (item.get("area") or {}).get("name", "")
+        url = item.get("alternate_url", "")
+        snippet = (item.get("snippet") or {}).get("requirement", "") or ""
+        salary = item.get("salary") or {}
+        return cls(
+            title=name,
+            area=area,
+            url=url,
+            salary_from=salary.get("from"),
+            salary_to=salary.get("to"),
+            description=snippet,
+        )
