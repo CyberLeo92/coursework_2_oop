@@ -22,7 +22,7 @@ def main() -> None:
         if choice == "1":
             query = input("Введите название вакансии: ")
             for item in api.fetch_vacancies(query, region_choice):
-                vacancy = Vacancy.from_hh_item(item)   # ▼ вся маппинг-логика внутри класса
+                vacancy = Vacancy.from_hh_item(item)
                 print(vacancy)
                 storage.add_vacancy(vacancy)
 
