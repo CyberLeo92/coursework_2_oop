@@ -32,8 +32,10 @@ class JSONVacancyStorage(AbstractVacancyStorage):
     """ Класс для работы с JSON-файлом """
 
     def __init__(self, filename: str) -> None:
-        self.__filename: str = filename
-        os.makedirs(os.path.dirname(self.__filename) or ".", exist_ok=True)
+        self.__filename: str = filename or "data.json"
+        dirname = os.path.dirname(self.__filename)
+        if dirname:
+            os.makedirs(dirname, exist_ok=True)
 
     def __load(self) -> list[dict]:
         if not os.path.exists(self.__filename):
@@ -50,10 +52,18 @@ class JSONVacancyStorage(AbstractVacancyStorage):
             json.dump(data, f, ensure_ascii=False, indent=4)
 
     def add_vacancy(self, vacancy: Vacancy) -> None:
-        """ Добавление вакансии в JSON файл """
+        """ Добавление вакансии в JSON файл (без дублей по URL) """
         data = self.__load()
         if not any(item.get("url") == vacancy.url for item in data):
-            data.append(vacancy.__dict__)
+            record = {
+                "title": vacancy.title,
+                "area": vacancy.area,
+                "url": vacancy.url,
+                "salary_from": vacancy.salary_from,
+                "salary_to": vacancy.salary_to,
+                "description": vacancy.description,
+            }
+            data.append(record)
             self.__save(data)
 
     def get_vacancies(self, criterion: str) -> List[Vacancy]:
